@@ -18,6 +18,7 @@ BeautifulSoup 4.11.1
 ```
 python main.py
 ```
+![image](https://raw.githubusercontent.com/joanbabyfet/md_img/master/display_reservoir_chart/display.png)
 
 ## Change Log
 v1.0.0  
